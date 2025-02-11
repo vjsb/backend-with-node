@@ -17,24 +17,34 @@
 <h2>Onde o JavaScript é usado?</h2>
 
 - Frontend: Manipulação do DOM, animações, interações e frameworks como React, Vue e Angular.
+
 - Backend: Com Node.js, é usado para criar APIs, microsserviços e aplicações escaláveis.
+
 - Mobile: Aplicações híbridas com React Native ou Ionic.
+
 - Desktop: Aplicações com Electron.js.
+
 - IoT e Games: Controle de dispositivos e desenvolvimento de jogos com Phaser.js.
 
 <h2>Node.js</h2>
 
--  É um runtime de JavaScript baseado no motor V8 do Google Chrome, que permite executar código JavaScript no backend (fora do navegador).
+- É um runtime de JavaScript baseado no motor V8 do Google Chrome, que permite executar código JavaScript no backend (fora do navegador).
+
 - É um interpretador Javascript que roda fora dos navegadores
+
 - Criar aplicações backend
+
 - Programas para inteligencia artificial, ect
+
 - Conecta banco de dados
+
 - Executa JS fora dos navegadores.
 
 <h2>Principais caracteristicas do Node.js</h2>
 
 1. Single-threaded e Assíncrono: 
 - Usa um único thread para lidar com múltiplas conexões simultaneamente.
+
 - Utiliza event loop e non-blocking I/O para evitar bloqueios em operações demoradas.
 
 2. V8 Engine
@@ -49,39 +59,54 @@
 <h2>Onde é que Node.js é usado?</h2>
 
 - ✅ APIs REST e GraphQL – Frameworks como Express e NestJS.
+
 - ✅ WebSockets e Aplicações em Tempo Real – Chat, notificações e multiplayer.
+
 - ✅ Microservices – Arquitetura distribuída e escalável.
+
 - ✅ Serverless e Cloud Computing – AWS Lambda, Firebase Functions, etc.
+
 - ✅ Automação e Ferramentas CLI – Scripts, gerenciadores de pacotes e ferramentas DevOps.
 
 <h2>Porque usar Node.Js?</h2>
 
 1. Alta Performance ⚡
 - ✔️ Baseado no V8 Engine – O código JavaScript é compilado para código de máquina, tornando a execução muito rápida.
+
 - ✔️ Non-blocking I/O – Lida com múltiplas requisições simultaneamente sem bloquear a thread principal.
+
 - 📌 Ideal para: APIs de alta concorrência, aplicações em tempo real, microsserviços.
 
 2. Assíncrono e Escalável 🔄
 - ✔️ Event Loop – Gerencia operações assíncronas sem a necessidade de múltiplas threads.
+
 - ✔️ Microservices & Serverless – Perfeito para arquiteturas distribuídas e escaláveis.
+
 - 📌 Ideal para: Sistemas de mensageria, filas de processamento, servidores altamente disponíveis.
 
 3. Grande Ecossistema e Comunidade 🌍
 - ✔️ NPM (Node Package Manager) – Maior repositório de pacotes do mundo.
+
 - ✔️ Frameworks e Bibliotecas – Express.js, NestJS, Socket.io, Sequelize, Mongoose, etc.
+
 - 📌 Ideal para: Startups, times ágeis e projetos que precisam de soluções rápidas.
 
 4. Fullstack JavaScript 🏗️
 - ✔️ Backend e frontend na mesma linguagem – Facilita o desenvolvimento com frameworks como React, Vue e Angular.
+
 - ✔️ Reaproveitamento de código entre frontend/backend.
+
 - 📌 Ideal para: Aplicações web modernas (SPA, SSR, APIs).
 
 5. Compatível com a Nuvem e Serverless ☁️
 - ✔️ Fácil integração com AWS, Google Cloud e Azure.
+
 - ✔️ Funciona bem com serviços como Lambda, DynamoDB, SQS e API Gateway.
+
 - 📌 Ideal para: Redução de custos e arquiteturas elásticas.
 
 <h2>Quando NÃO Usar Node.js?</h2>
 
 - ❌ Aplicações com alto processamento (ex.: Machine Learning, IA) – O Node é single-threaded e pode não ser ideal para cálculos intensivos.
+
 - ❌ Sistemas que exigem muitas operações síncronas – Pode ser melhor usar linguagens como Java ou Go em alguns casos.
