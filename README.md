@@ -77,7 +77,7 @@
 
 - ✔️ Non-blocking I/O – Lida com múltiplas requisições simultaneamente sem bloquear a thread principal.
 
-- ✔️ 10x mais requisições mais requisições que php
+- ✔️ 10x mais requisições que php
 
 - 📌 Ideal para: APIs de alta concorrência, aplicações em tempo real, microsserviços.
 
@@ -114,3 +114,29 @@
 - ❌ Aplicações com alto processamento (ex.: Machine Learning, IA) – O Node é single-threaded e pode não ser ideal para cálculos intensivos.
 
 - ❌ Sistemas que exigem muitas operações síncronas – Pode ser melhor usar linguagens como Java ou Go em alguns casos.
+
+<h2>O que é o NPM no Node.js? 📦</h2>
+
+O NPM (Node Package Manager) é o gerenciador de pacotes do Node.js. Ele permite instalar, gerenciar e compartilhar bibliotecas e ferramentas para facilitar o desenvolvimento de aplicações Node.js.
+
+<h2>Principais Funções do NPM</h2>
+
+1️⃣ Gerenciar pacotes
+
+- Instala, remove e atualiza dependências do projeto.
+
+- A comunidade publica pacotes open-source que podem ser usados diretamente.
+
+2️⃣ Gerenciar scripts
+
+- Permite definir comandos personalizados para rodar no terminal (ex.: npm start, npm test).
+
+3️⃣ Publicar pacotes
+
+- Desenvolvedores podem publicar seus próprios pacotes no repositório do NPM.
+
+<h2>Arquivos Importantes do NPM</h2>
+
+- 📌 package.json – Contém informações do projeto e lista de dependências.
+- 📌 package-lock.json – Garante que todas as máquinas usem as mesmas versões das dependências.
+- 📌 node_modules/ – Pasta onde os pacotes instalados ficam armazenados.
