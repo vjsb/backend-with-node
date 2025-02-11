@@ -1,14 +1,17 @@
 <h1>Backend-With-Node</h1>
 
-<h1>Estudos sobre Node.Js</h1>
-
 <h2>JavaScript</h2>
 
 - Uma linguagem de programação de alto nível, dinâmica e multiparadigma, amplamente utilizada para o desenvolvimento web.
+
 - Permite criar desde interações simples em páginas da web até aplicações backend robustas, usando plataformas como Node.js.
+
 - É uma linguagem de tipagem dinamica, isso significa que é uma linguagem fracamente tipada e que o tipo das variáveis é definido em tempo de execução.
+
 - Interpretado: Não precisa de compilação prévia, sendo executado diretamente pelo navegador ou pelo Node.js.
+
 - Multiparadigma: Suporta programação orientada a objetos, funcional e baseada em eventos.
+
 - Assíncrono e não bloqueante: Usa callbacks, Promises e async/await para operações assíncronas, otimizando o desempenho.
 
 <h2>Onde o JavaScript é usado?</h2>
