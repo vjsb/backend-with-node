@@ -140,3 +140,7 @@ O NPM (Node Package Manager) é o gerenciador de pacotes do Node.js. Ele permite
 - 📌 package.json – Contém informações do projeto e lista de dependências.
 - 📌 package-lock.json – Garante que todas as máquinas usem as mesmas versões das dependências.
 - 📌 node_modules/ – Pasta onde os pacotes instalados ficam armazenados.
+
+<h2>NPM vs Yarn</h2>
+
+📌 Yarn é uma alternativa ao NPM com algumas melhorias de performance e segurança. Ambos fazem a mesma coisa, e a escolha depende do projeto/time.
