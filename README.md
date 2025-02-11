@@ -50,6 +50,8 @@
 2. V8 Engine
 - O motor JavaScript do Google Chrome compila código JS para código de máquina, tornando-o muito rápido.
 
+- Temos então um código JS rodando em C++ para garantir alta performace
+
 3. Modularidade com NPM (Node Package Manager)
 - Possui um enorme ecossistema de pacotes e bibliotecas para facilitar o desenvolvimento.
 
@@ -74,6 +76,8 @@
 - ✔️ Baseado no V8 Engine – O código JavaScript é compilado para código de máquina, tornando a execução muito rápida.
 
 - ✔️ Non-blocking I/O – Lida com múltiplas requisições simultaneamente sem bloquear a thread principal.
+
+- ✔️ 10x mais requisições mais requisições que php
 
 - 📌 Ideal para: APIs de alta concorrência, aplicações em tempo real, microsserviços.
 
