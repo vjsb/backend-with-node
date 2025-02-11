@@ -37,10 +37,10 @@
 2. V8 Engine
 - O motor JavaScript do Google Chrome compila código JS para código de máquina, tornando-o muito rápido.
 
-3.Modularidade com NPM (Node Package Manager)
+3. Modularidade com NPM (Node Package Manager)
 - Possui um enorme ecossistema de pacotes e bibliotecas para facilitar o desenvolvimento.
 
-4.APIs Nativas
+4. APIs Nativas
 - Permite manipular arquivos, redes, processos e outras funcionalidades do sistema operacional.
 
 <h2>Onde é que Node.js é usado?</h2>
