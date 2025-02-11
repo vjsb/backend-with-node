@@ -143,4 +143,4 @@ O NPM (Node Package Manager) é o gerenciador de pacotes do Node.js. Ele permite
 
 <h2>NPM vs Yarn</h2>
 
-📌 Yarn é uma alternativa ao NPM com algumas melhorias de performance e segurança. Ambos fazem a mesma coisa, e a escolha depende do projeto/time.
+- 📌 Yarn é uma alternativa ao NPM com algumas melhorias de performance e segurança. Ambos fazem a mesma coisa, e a escolha depende do projeto/time.
